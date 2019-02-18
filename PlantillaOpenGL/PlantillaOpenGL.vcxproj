@@ -169,6 +169,11 @@
     <None Include="resources\glew32.dll" />
     <None Include="resources\glfw3.dll" />
   </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\musica\celebracion.wav" />
+    <Media Include="..\musica\Golpe.wav" />
+    <Media Include="..\musica\MusicaFondo.wav" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
